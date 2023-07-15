@@ -1,5 +1,5 @@
 # YRVSA_Dataset
-YoutubeReviewVideoSentimentAnalysis (YRVSA) dataset is a collection of comments crawled from phone review videos on Youtube to make sentiment analysis against video or the product
+YoutubeReviewVideoSentimentAnalysis (YRVSA) dataset is a collection of comments crawled from phone review videos on Youtube to make sentiment analysis towards the video or the product
 
 ## Introduction
 As one of the most popular media, YouTube with its mass video sharing feature shapes an outlook of an object, as an example to be discussed in this research is  smartphones. YouTube facilitates users to respond to the video in several ways, one by leaving a comment on the video [11]. The contents of the word can have a more varied purpose and can be addressed to how the video is delivered or directed to the goods being reviewed, which is a smartphone. Comments can be more informative as netizens can give their opinions on a product or how to deliver the video. The following example is a comment on a smartphone review video that contains negative sentiment:
