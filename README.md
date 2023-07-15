@@ -17,7 +17,7 @@ The word ```disein cantik abis``` refers to the phone design which amazed the vi
 ## About the Dataset
 The dataset contains 13,638 Indonesian comments from 206 phone video reviews from YouTube. It was crawled in 2017, manually annotated by Ekki Rinaldi, then verified by Language Expert Dra. Lucia Sri Suharjanti.
 
-The datasets has 7 classes:
+The datasets has 8 classes:
 | CLASS            | DESC                                                          | Example                                                                                                   | COUNT |
 |------------------|---------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|-------|
 |     ```off-topic```    | the comment does not refer to the video or product            | PERTAMAX !                                                                                                |  2935 |
